@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">HCL-IVI</string>
-    <string name="title_meter">Meter</string>
-    <string name="title_call">Call</string>
-    <string name="title_home">Home</string>
-    <string name="title_audio">Audio</string>
-
-</resources>
